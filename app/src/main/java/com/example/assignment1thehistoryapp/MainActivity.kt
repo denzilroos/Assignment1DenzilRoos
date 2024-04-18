@@ -23,7 +23,12 @@ class MainActivity : AppCompatActivity() {
         historytext = findViewById(R.id.historyinfo)
         clearbttn = findViewById(R.id.clearbutton)
 
+        clearbttn.setOnClickListener{
+            val clearpush = "histroy restart"
+            historytext.setText(clearpush)
+            userage.setText(" ")
 
+        }
 
         genbttn.setOnClickListener {
 

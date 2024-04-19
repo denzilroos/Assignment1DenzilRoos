@@ -11,3 +11,55 @@ Iamges used in app-
   https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRVsI7ujUIcWLW5o2c9J1KpDfXT2Tj-_UIM72ynzZj2l24nA4okG5WzCBXunqAW68ht
 As such, use of this image in the jurisdiction of the claimant or other countries may be regarded as copyright infringement. Please see &lt;a href="//commons.wikimedia.org/wiki/Commons:When_to_use_the_PD-Art_tag" title="Commons:When to use the PD-Art tag"&gt;Commons:When to use the PD-Art tag&lt;/a&gt; for more information., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=147141653">Link</a></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Young_Mandela.jpg#/media/File:Young_Mandela.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Young_Mandela.jpg" alt="Young Mandela.jpg" height="480" width="350"></a><br>By Unknown author - Published in various locations. Such as on the front cover to David James Smith's Young Mandela., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10664759">Link</a></p>
+
+References
+Died: 18 April 1955 (age 76 years)
+Albert Einstein was a German-born theoretical physicist who is widely held to be one of the greatest and most influential scientists of all time. Wikipedia
+https://en.wikipedia.org/wiki/Albert_Einstein
+(Accessed 17 April 2024)
+
+Died: 23 April 1616 (age 52 years)
+William Shakespeare was an English playwright, poet, and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". Wikipedia
+https://en.wikipedia.org/wiki/William_Shakespeare
+(Accessed 17 April 2024)
+
+5 December 2013 (age 95 years)
+Nelson Rolihlahla Mandela was a South African anti-apartheid activist, politician, and statesman who served as the first president of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. Wikipedia
+https://en.wikipedia.org/wiki/Nelson_Mandela
+(Accessed 17 April 2024)
+
+Died: 31 August 1997 (age 36 years)
+Diana, Princess of Wales was a member of the British royal family. She was the first wife of Charles III and mother of Princes William and Harry. Her activism and glamour made her an international icon, and earned her enduring popularity. Wikipedia
+https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales
+(Accessed 17 April 2024)
+
+Died: 25 June 2009 (age 50 years)
+Michael Joseph Jackson was an American singer, songwriter, dancer, and philanthropist. Known as the "King of Pop", he is widely regarded as one of the most significant cultural figures of the 20th century. Wikipedia
+https://en.wikipedia.org/wiki/Michael_Jackson
+(Accessed 17 April 2024)
+
+Florence Nightingale OM RRC DStJ was an English social reformer, statistician and the founder of modern nursing. Nightingale came to prominence while serving as a manager and trainer of nurses during the Crimean War, in which she organised care for wounded soldiers at Constantinople. Wikipedia
+Died: 13 August 1910 (age 90 years), Mayfair, London, United Kingdom
+https://en.wikipedia.org/wiki/Florence_Nightingale
+(Accessed 17 April 2024)
+
+J. Robert Oppenheimer was an American theoretical physicist. He was director of the Manhattan Project's Los Alamos Laboratory during World War II and is often called the "father of the atomic bomb". Wikipedia
+Died: 18 February 1967 (age 62 years), Princeton, New Jersey, United States
+https://en.wikipedia.org/wiki/J._Robert_Oppenheimer
+(Accessed 17 April 2024)
+
+John Ronald Reuel Tolkien CBE FRSL was an English writer and philologist. He was the author of the high fantasy works The Hobbit and The Lord of the Rings. From 1925 to 1945, Tolkien was the Rawlinson and Bosworth Professor of Anglo-Saxon and a Fellow of Pembroke College, both at the University of Oxford. Wikipedia
+Died: 2 September 1973 (age 81 years), Bournemouth, United Kingdom
+https://en.wikipedia.org/wiki/J._R._R._Tolkien
+(Accessed 17 April 2024)
+
+Elvis Aaron Presley, also known mononymously as Elvis, was an American singer and actor. Known as the "King of Rock and Roll", he is regarded as one of the most significant cultural figures of the 20th century. Wikipedia
+Died: 16 August 1977 (age 42 years), Graceland, Memphis, Tennessee, United States
+https://en.wikipedia.org/wiki/Elvis_Presley
+(Accessed 17 April 2024)
+
+Kurt Donald Cobain was an American musician who was the lead vocalist, guitarist, primary songwriter, and a founding member of the grunge rock band Nirvana. Through his angsty songwriting and anti-establishment persona, his compositions widened the thematic conventions of mainstream rock music. Wikipedia
+Died: 5 April 1994 (age 27 years), Seattle, Washington, United States
+https://en.wikipedia.org/wiki/Kurt_Cobain
+(Accessed 17 April 2024)
+

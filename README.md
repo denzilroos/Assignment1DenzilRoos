@@ -1,6 +1,7 @@
 # Assignment1DenzilRoos
 History app for assignment 1
 I have created a mobile application using Android Studio programmed with Kotlin called "The History App" . This app is intended to be made for a history teacher to share with her students to learn about history in a fun and educational way. The goal of the app is to allow the user to enter their age and then be able to tap a generate history button which will then present them with information about a famous person in history who passed away at that age. The app will also have a button that can be tapped to clear the information presented and the users input which would reset the app to its starting point. If the user enters a number that is less than 20 or greater than 100 the app will present a message saying that there is no information for those ages as it is out of range. If the user enters a number that is not an integer/whole number the app will present the user with a message saying they have entered an invalid number. If nothing is entered and the generate history button is pressed a message will pop up saying "please enter a number" . I started creating the app in Android Studio by designing the user interface by creating text for the app name and changing the font colour, font type, size and added a drop shadow. I added a background colour and inserted pictures of old books and pictures of famous people from history to represent the theme of the app. Below the pictures I add text to say "Enter age:" to prompt the user to enter their age in the edit text feild next to it. Below the "enter age:" prompt I added two buttons, the first one is labelled "genrate history" which will present the information in a text feild below or a warning message if the number entered is invalid or out of range. The clear button will reset the app to its starting point if it is tapped. The app is designed to be easy to use while providing feedback to the user if the app is not used correclty by showing warnings if the number entered does not meet the required criteria. 
+I installed Github and linked it to Android Studio to commit and push the code to a Github repository.
 
 Preview image of app-
 <img src="https://i.ibb.co/6NjS3S2/thehistoryapp-preview.jpg" alt="thehistoryapp-preview" border="0">
@@ -12,7 +13,8 @@ Iamges used in app-
 As such, use of this image in the jurisdiction of the claimant or other countries may be regarded as copyright infringement. Please see &lt;a href="//commons.wikimedia.org/wiki/Commons:When_to_use_the_PD-Art_tag" title="Commons:When to use the PD-Art tag"&gt;Commons:When to use the PD-Art tag&lt;/a&gt; for more information., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=147141653">Link</a></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Young_Mandela.jpg#/media/File:Young_Mandela.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Young_Mandela.jpg" alt="Young Mandela.jpg" height="480" width="350"></a><br>By Unknown author - Published in various locations. Such as on the front cover to David James Smith's Young Mandela., Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10664759">Link</a></p>
 
-References
+References list 
+
 Died: 18 April 1955 (age 76 years)
 Albert Einstein was a German-born theoretical physicist who is widely held to be one of the greatest and most influential scientists of all time. Wikipedia
 https://en.wikipedia.org/wiki/Albert_Einstein

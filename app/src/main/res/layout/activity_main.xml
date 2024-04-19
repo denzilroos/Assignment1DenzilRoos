@@ -9,27 +9,17 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="307dp"
-        android:layout_height="208dp"
+        android:layout_width="388dp"
+        android:layout_height="265dp"
+        android:scaleX="1.2"
+        android:scaleY="0.9"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.478"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.168"
-        tools:srcCompat="@drawable/age_16841_1920" />
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="307dp"
-        android:layout_height="208dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.168"
-        tools:srcCompat="@drawable/age_16841_1920" />
+        app:layout_constraintVertical_bias="0.109"
+        app:srcCompat="@drawable/age_16841_1920" />
 
     <TextView
         android:id="@+id/textView2"
@@ -37,19 +27,19 @@
         android:layout_height="wrap_content"
         android:ellipsize="none"
         android:fontFamily="@font/almendra_bold"
-        android:shadowColor="#9A9A9A"
+        android:shadowColor="#000000"
         android:shadowDx="10"
-        android:shadowDy="10"
+        android:shadowDy="6"
         android:shadowRadius="10"
         android:text="HISTORY APP!"
         android:textColor="#AC4F12"
         android:textSize="48sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintHorizontal_bias="0.504"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.038" />
+        app:layout_constraintVertical_bias="0.037" />
 
     <TextView
         android:id="@+id/textView"

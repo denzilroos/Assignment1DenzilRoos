@@ -4,9 +4,11 @@ I have created a mobile application using Android Studio programmed with Kotlin 
 I installed Github and linked it to Android Studio to commit and push the code to a Github repository.
 
 Preview image of app-
+
 <img src="https://i.ibb.co/6NjS3S2/thehistoryapp-preview.jpg" alt="thehistoryapp-preview" border="0">
 
-Iamges used in app-
+Images used in app-
+
 <p><a href="https://commons.wikimedia.org/wiki/File:Albert_Einstein_(Nobel).png#/media/File:Albert_Einstein_(Nobel).png"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Albert_Einstein_%28Nobel%29.png" alt="Albert Einstein (Nobel).png" height="396" width="280"></a><br>By Possibly &lt;a href="https://en.wikipedia.org/wiki/en:Herman_Mishkin" class="extiw" title="w:en:Herman Mishkin"&gt;&lt;span title="Russian American photographer"&gt;Herman Mishkin&lt;/span&gt;&lt;/a&gt; - &lt;a rel="nofollow" class="external text" href="http://nobelprize.org/nobel_prizes/physics/laureates/1921/"&gt;Official 1921 Nobel Prize in Physics photograph&lt;/a&gt;, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=458521">Link</a></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:William_Shakespeare_by_John_Taylor,_edited.jpg#/media/File:William_Shakespeare_by_John_Taylor,_edited.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/William_Shakespeare_by_John_Taylor%2C_edited.jpg" alt="William Shakespeare by John Taylor, edited.jpg" height="480" width="377"></a><br>By Attributed to &lt;a href="https://en.wikipedia.org/wiki/en:John_Taylor_(painter)" class="extiw" title="w:en:John Taylor (painter)"&gt;&lt;span title="English painter (1585-1651)"&gt;John Taylor&lt;/span&gt;&lt;/a&gt; - one or more third parties have made copyright claims against Wikimedia Commons in relation to the work from which this is sourced or a purely mechanical reproduction thereof. This may be due to recognition of the "&lt;a href="https://en.wikipedia.org/wiki/sweat_of_the_brow" class="extiw" title="w:sweat of the brow"&gt;sweat of the brow&lt;/a&gt;" doctrine, allowing works to be eligible for protection through skill and labour, and not purely by originality as is the case in the United States (where this website is hosted). These claims may or may not be valid in all jurisdictions.
   https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcRVsI7ujUIcWLW5o2c9J1KpDfXT2Tj-_UIM72ynzZj2l24nA4okG5WzCBXunqAW68ht

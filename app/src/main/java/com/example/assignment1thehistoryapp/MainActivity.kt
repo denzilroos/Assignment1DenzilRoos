@@ -23,14 +23,14 @@ class MainActivity : AppCompatActivity() {
         historytext = findViewById(R.id.historyinfo)
         clearbttn = findViewById(R.id.clearbutton)
 
-        clearbttn.setOnClickListener{
-            val clearpush = "histroy restart"
+        clearbttn.setOnClickListener{//functionality of the clear button
+            val clearpush = "Historical figure information"
             historytext.setText(clearpush)
             userage.setText(" ")
 
         }
 
-        genbttn.setOnClickListener {
+        genbttn.setOnClickListener {//functionality of the Generate history button
 
             val value1 = userage.text.toString()
             val inputnumber = value1.toIntOrNull()
@@ -142,7 +142,7 @@ class MainActivity : AppCompatActivity() {
                         " compositions widened the thematic conventions of\n" +
                         " mainstream rock music.  "
 
-                historytext.setText(agevalue)
+                historytext.setText(agevalue) //test for input less than 20
             } else if (inputnumber != null) {
                 if (inputnumber <= 20) {
                     val agevalue = "There is no historical figure known to be " + value1 +
@@ -150,7 +150,7 @@ class MainActivity : AppCompatActivity() {
 
                     historytext.setText(agevalue)
                 }
-                if (inputnumber > 100) {
+                if (inputnumber > 100) { //test for input greater than 100
                     val agevalue = "There is no historical figure known to be " + value1 +
                             " years old"
 
@@ -159,7 +159,7 @@ class MainActivity : AppCompatActivity() {
 
 
             }
-            if (inputnumber == null) {
+            if (inputnumber == null) { //tests to see if the number entered is not an integer
                 val agevalue = "Please enter a valid integer"
 
                 historytext.setText(agevalue)
